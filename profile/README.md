@@ -1,2 +1,2 @@
-![Iron Cloud](C:\Users\maldo\OneDrive\Documents\Github\Project\.github\profile\Iron-Cloud.png)
+![Iron Cloud](https://github.com/IronCloudSecurity/.github/blob/main/profile/Iron-Cloud.png)
 
