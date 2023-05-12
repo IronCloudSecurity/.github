@@ -20,8 +20,7 @@
 <a href="https://github.com/JesusCEVC"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Ethan  | GitHub" width="100px"/></a>
 <p align="left"> ${\color{red}Emiliano \space Ceja }$ </p> <a href="https://www.linkedin.com/in/deontae-carter-4bb707233/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Deontae | LinkedIn" width="100px"/></a>
 <a href="https://github.com/DeontaeCarter"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Ethan  | GitHub" width="100px"/></a>
-<p align="left"> ${\color{red}Deontae \space Carter }$ </p> <a href="https://github.com/JesusCEVC"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Ethan  | GitHub" width="100px"/></a>
-<p align="left"> ${\color{red}Emiliano \space Ceja }$ </p> <a href="https://www.linkedin.com/in/jordan-marshall-9663a1254/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jordan | LinkedIn" width="100px"/></a>
+<p align="left"> ${\color{red}Deontae \space Carter }$ </p> <a href="https://www.linkedin.com/in/jordan-marshall-9663a1254/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jordan | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Jmarshall25"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Ethan  | GitHub" width="100px"/></a>
 <p align="left"> ${\color{red}Jordan \space Marshall }$ </p>
 </br>
