@@ -4,7 +4,13 @@
   </h1>
   <h4>
     We are 🛡️ Cybersecurity professionals.
-
+</br>
+</br>
+  <h4>
+💾 Description of our project 🚧
+</br>
+  Our team has been contracted to improve the cybersecurity processes and systems for a client company, focusing on logging, monitoring and detection of adversarial activity on cloud infrastructure.
+  
 ## Our Team:
 <a href="https://www.linkedin.com/in/Sierra-maldonado/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sierra | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Magicwolfes"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Sierra  | GitHub" width="100px"/></a>
@@ -17,9 +23,8 @@
 <p align="left"> ${\color{red}Deontae \space Carter }$ </p>
 </br>
 </br>
-  </h1>
- 🔎Repos ✒️
-   </h1>
+  </h4>
+    🔎Repos ✒️
 </br>
 </br>
 <a href="https://github.com/IronCloudSecurity/SOPs#readme"><img align="left" src="https://img.shields.io/badge/Repo-Standard Operating Procedures-red" alt="SOPs | GitHub Repo" width="300px"/></a>
@@ -30,7 +35,4 @@
 </br>
 <a href="https://github.com/IronCloudSecurity/Scripts#readme"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-red" alt="Automation Scripts | GitHub Repo" width="115px"/></a> 
 </br>
-</br>
-## 💻PM Tools used 🧰
-- [Trello Board](https://trello.com/b/NjbABYRP)
 
