@@ -7,7 +7,8 @@
 </br>
 </br>
   <h4>
-💾 Description of our project 🚧
+  
+## 💾 Description of our project 🚧
 </br>
   Our team has been contracted to improve the cybersecurity processes and systems for a client company, focusing on logging, monitoring and detection of adversarial activity on cloud infrastructure.
   
@@ -25,9 +26,8 @@
 <p align="left"> ${\color{blue}Jordan \space Marshall }$ </p>
 </br>
 </br>
-  </h4>
-    🔎Repos ✒️
-</br>
+
+##    🔎Repos ✒️
 </br>
 <a href="https://github.com/IronCloudSecurity/SOPs#readme"><img align="left" src="https://img.shields.io/badge/Standard Operating Procedure-black" alt="Iron Cloud | GitHub" width="300px"/></a
 </br>
