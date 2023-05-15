@@ -29,12 +29,12 @@
     🔎Repos ✒️
 </br>
 </br>
-<a href="https://github.com/IronCloudSecurity/SOPs#readme"><img align="left" src="https://img.shields.io/badge/Repo-Standard Operating Procedures-red" alt="SOPs | GitHub Repo" width="300px"/></a>
+<a href="https://github.com/IronCloudSecurity/SOPs#readme"><img align="left" src="https://img.shields.io/badge/Standard Operating Procedure-black" alt="Iron Cloud | GitHub" width="300px"/></a
 </br>
 </br>
-<a href="https://github.com/IronCloudSecurity/Documentation#readme"><img align="left" src="https://img.shields.io/badge/Repo-Documentations-red" alt="Documentation | GitHub Repo" width="200px"/></a> 
+</br>
+<a href="https://github.com/IronCloudSecurity/Documentation#readme"><img align="left" src="https://img.shields.io/badge/Documentation-black" alt="Iron Cloud | GitHub" width="160px"/></a>
 </br>
 </br>
-<a href="https://github.com/IronCloudSecurity/Scripts#readme"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-red" alt="Automation Scripts | GitHub Repo" width="115px"/></a> 
-</br>
+<a href="https://github.com/IronCloudSecurity/Scripts#readme"><img align="left" src="https://img.shields.io/badge/Scripts-black" alt="Iron Cloud | GitHub" width="80px"/></a>
 
