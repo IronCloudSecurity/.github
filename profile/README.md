@@ -37,4 +37,21 @@
 </br>
 </br>
 <a href="https://github.com/IronCloudSecurity/Scripts#readme"><img align="left" src="https://img.shields.io/badge/Scripts-black" alt="Iron Cloud | GitHub" width="80px"/></a>
+</br>
+</br>
+</br>
+<a href="https://github.com/IronCloudSecurity/Documentation/blob/main/Network.png"><p align="center" img src="https://github.com/IronCloudSecurity/Documentation/blob/main/Network.png" width="100%" height="100%"/></a>
+<p align="left">
+   <br>
+  <br>
+   <br> 
+   <br> 
+   <br>
+    <br>
+     <br> 
+     <br>
+      <br>
+       <br>
+        <br>
+ <br>
 
