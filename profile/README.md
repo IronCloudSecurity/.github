@@ -47,7 +47,7 @@
 </br>
 </br>
 <p align="center"> 
-<a href="https://github.com/IronCloudSecurity/Documentation/blob/main/Network.png"><img src="https://github.com/IronCloudSecurity/Documentation/blob/main/Network.png" width="60%" height="60%"/></a>
+<a href="https://github.com/IronCloudSecurity/Documentation/blob/main/Network%20Top%203.png"><img src="https://github.com/IronCloudSecurity/Documentation/blob/main/Network%20Top%203.png" width="60%" height="60%"/></a>
 <p align="left">
    <br>
   <br>
