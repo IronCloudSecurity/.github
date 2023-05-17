@@ -42,6 +42,10 @@
 
 ## PM Tool 🎯
 ### [Trello](https://trello.com/b/NjbABYRP/iron-cloud)
+
+## PowerPoint and Video
+- [Powerpoint]
+- [Video Link]
  
 # Network Topology 🧩
 </br>
