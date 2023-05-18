@@ -44,7 +44,7 @@
 ### [Trello](https://trello.com/b/NjbABYRP/iron-cloud)
 
 ## PowerPoint and Video
-- [Powerpoint]
+- [Powerpoint](https://github.com/IronCloudSecurity/Documentation/blob/main/Iron%20Cloud%20.pdf)
 - [Video Link]
  
 # Network Topology 🧩
