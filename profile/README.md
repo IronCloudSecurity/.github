@@ -1,16 +1,16 @@
 ![Iron Cloud](https://github.com/IronCloudSecurity/.github/blob/main/profile/Iron-Cloud.png)
   <h1>
-  👋 Welcome to our team project
+   Welcome to our team project 👋 
   </h1>
   <h4>
-    We are 🛡️ Cybersecurity professionals.
+    We are Cybersecurity professionals. 🛡️
 </br>
 </br>
   <h4>
   
 ## 💾 Description of our project 🚧
 </br>
-  Our team has been contracted to improve the cybersecurity processes and systems for a client company, focusing on logging, monitoring and detection of adversarial activity on cloud infrastructure.
+  Our team has been contracted to improve the cybersecurity processes and systems for a client company, Code Fellows Computing, focusing on logging, monitoring and detection of adversarial activity on cloud infrastructure.
   
 ## ♟️Our Team:
 <a href="https://www.linkedin.com/in/Sierra-maldonado/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sierra | LinkedIn" width="100px"/></a>
