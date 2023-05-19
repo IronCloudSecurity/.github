@@ -10,7 +10,7 @@
   
 ## 💾 Description of our project 🚧
 </br>
-  Our team has been contracted to improve the cybersecurity processes and systems for a client company, Code Fellows Computing, focusing on logging, monitoring and detection of adversarial activity on cloud infrastructure.
+Iron Cloud has been contracted to improve the cybersecurity processes and systems for the client company, Code Fellows Computing. The client has a vulnerable cloud infrastructure that lacks security compliance and employs insecure networking methods
   
 ## ♟️Our Team:
 <a href="https://www.linkedin.com/in/Sierra-maldonado/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sierra | LinkedIn" width="100px"/></a>
